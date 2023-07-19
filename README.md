@@ -2,7 +2,10 @@
 
 More difficulty Enemy WITH NEW UNITS. 敌人更强大,加入更多单位.
 
-## 改动:Change
+# 用法:how to use
+下载并覆盖expandmo98.mix和expandmo99.mix即可,(可选)记得备份原版.
+
+# 改动:Change
 全局:
 1.所有阵营的运兵船可以让装载的单位开火.
 2.玩家所有阵营的机场单位享受4倍攻击力加成.
