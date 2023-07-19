@@ -1,6 +1,7 @@
 # Mental Omega : Hardgame MOD
 
-More difficulty Enemy WITH NEW UNITS. 敌人更强大,加入更多单位.
+More difficulty Enemy WITH NEW UNITS. 敌人更强大, 加入更多单位.
+兼容焚风启示录.
 
 # 用法:how to use
 下载并覆盖expandmo98.mix和expandmo99.mix即可. (可选)记得备份原版.
